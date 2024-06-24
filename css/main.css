@@ -1,0 +1,44 @@
+@charset "UTF-8" ;
+
+.box{
+    width: 16px;
+    height: 19px;
+}
+
+.box a{
+    display: block;
+    height: 100%;
+    background: url(../images/sv9.png)no-repeat;
+    background-position: 0 -50px;
+    transition: all 0.3s;
+    text-indent: -9999px;
+}
+
+.box a:hover{
+    background-position: -16px -50px;
+}
+
+.box_1{
+    width: 34px;
+    height: 34px;
+}
+
+.box_1 a{
+    display: block;
+    height: 100%;
+    background: url(../images/sv9.png)no-repeat;
+    background-position: -93px -111px;
+    transition: all 0.3s;
+    text-indent: -9999px;
+}
+
+.box_1 a:hover{
+    background-position: -127px -111px;
+}
+
+
+
+
+
+
+
